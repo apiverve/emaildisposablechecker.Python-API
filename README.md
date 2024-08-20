@@ -70,7 +70,8 @@ print(result)
     "isDisposable": false,
     "email": "support@myspace.com",
     "domain": "myspace.com"
-  }
+  },
+  "code": 200
 }
 ```
 
