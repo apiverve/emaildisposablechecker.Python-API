@@ -1,4 +1,4 @@
-Email Disposable Checker API
+Disposable Email Checker API
 ============
 
 Email Disposable Checker is a simple tool for checking if an email address is disposable. It returns if the email address is disposable or not.
@@ -7,12 +7,12 @@ Email Disposable Checker is a simple tool for checking if an email address is di
 ![Code Climate](https://img.shields.io/badge/maintainability-B-purple)
 ![Prod Ready](https://img.shields.io/badge/production-ready-blue)
 
-This is a Python API Wrapper for the [Email Disposable Checker API](https://apiverve.com/marketplace/api/emaildisposablechecker)
+This is a Python API Wrapper for the [Disposable Email Checker API](https://apiverve.com/marketplace/api/emaildisposablechecker)
 
 ---
 
 ## Installation
-	pip install apiverve-emaildisposablechecker
+	pip install apiverve-disposableemailchecker
 
 ---
 
@@ -25,14 +25,14 @@ You can get it by signing up at [https://apiverve.com](https://apiverve.com)
 
 ## Usage
 
-The Email Disposable Checker API documentation is found here: [https://docs.apiverve.com/api/emaildisposablechecker](https://docs.apiverve.com/api/emaildisposablechecker).  
+The Disposable Email Checker API documentation is found here: [https://docs.apiverve.com/api/emaildisposablechecker](https://docs.apiverve.com/api/emaildisposablechecker).  
 You can find parameters, example responses, and status codes documented here.
 
 ### Setup
 
 ```
 # Import the client module
-from apiverve_emaildisposablechecker.apiClient import EmaildisposablecheckerAPIClient
+from apiverve_disposableemailchecker.apiClient import EmaildisposablecheckerAPIClient
 
 # Initialize the client with your APIVerve API key
 api = EmaildisposablecheckerAPIClient("[YOUR_API_KEY]")
